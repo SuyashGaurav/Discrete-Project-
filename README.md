@@ -29,6 +29,4 @@ g++ ds_project.cpp -o run
 0
 3
 1
-<img src = "https://github.com/SuyashGaurav/Discrete-Project-/blob/main/graph1.png" width = "30%">
-
 ```
