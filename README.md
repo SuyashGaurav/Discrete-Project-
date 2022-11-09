@@ -29,4 +29,4 @@ g++ ds_project.cpp -o run
 3
 1
 ```
-##### Image: <img src = "https://github.com/SuyashGaurav/Discrete-Project-/blob/main/graph1.png" width = "50%">
+##### Image: <img src = "https://github.com/SuyashGaurav/Discrete-Project-/blob/main/graph1.png" width = "30%">
