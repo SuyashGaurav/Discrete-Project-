@@ -13,6 +13,10 @@ g++ ds_project.cpp -o run
 ./run
 ```
 #### Input format:
+ - The first line consist of two spaced integer, ## n and ## edges, the number of vertices(cities) and cost
+ - The following ## edges lines consist of three separated integers which indicates that there is a flight from city "from" to city "to" with cost "price"
+ - 
+#### Sample Input
 ```
 1
 4 5
@@ -25,3 +29,4 @@ g++ ds_project.cpp -o run
 3
 1
 ```
+##### Image : (https://github.com/SuyashGaurav/Discrete-Project-/blob/main/graph1.png)
