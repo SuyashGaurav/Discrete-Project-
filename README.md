@@ -16,8 +16,9 @@ g++ ds_project.cpp -o run
  - The first line consist of two spaced integer, **n** and **edges**, the number of vertices(cities) and cost
  - The following **edges** lines consist of three separated integers which indicates that there is a flight from city "from" to city "to" with cost "price"
  - The last three lines consist of **source**, **destination** and **stops** respectively.
-#### Sample Input
+#### Sample Input:
 <img src = "https://github.com/SuyashGaurav/Discrete-Project-/blob/main/graph1.png" width = "30%">
+
 ```
 1
 4 5
